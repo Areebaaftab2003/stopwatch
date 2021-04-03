@@ -1,0 +1,46 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+background-image: url(1.jpg);
+background-repeat: no-repeat;
+background-position:center ;
+background-size: cover;
+height: 100vh;
+
+}
+.mein{
+    margin: auto;
+    margin-top: 90px;
+    width: 450px;
+}
+#display{
+    font-size: 100px;
+    background: chocolate;
+    padding: 50px;
+    color: powderblue;
+    border-bottom: 2px solid purple;
+}
+
+.mein{
+  text-align: center;
+  padding-top: 20%;
+}
+
+
+h1{
+    font-size: 70px;
+}
+
+button{
+    font-size: 30px;
+  
+}
+h2{
+    font-size: 40px;
+    
+}
